@@ -5,7 +5,7 @@ Para ello, se seguirá el siguiente flujo de trabajo:
 
 ## 1. Entrenar un modelo para predecir los precios de la viviendas
 
-a. 
+- Se entrena el modelo con RandomForest y se originan los siguientes archivos en [Modelo](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/tree/master/Modelo)
 
 A few resources to get you started if this is your first Flutter project:
 
