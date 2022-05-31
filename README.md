@@ -11,10 +11,26 @@ Para ello, se seguirá el siguiente flujo de trabajo:
     
     b. rf_model.rar: Modelo entrenado (RandomForest)
     
-    c. mputer_model.pkl: Para replicar la imputación con la que se entrenó
+    c. imputer_model.pkl: Para replicar la imputación con la que se entrenó
     
     d. scaler_model.pkl: Para replicar las escalas con las que se entrenó
     
+## 2. Crear el API con FastAPI
+
+- Se creará un api que pueda ser consumido por el modelo. Se encuentra en [Api_Precio_Pred](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/tree/master/Api_Precio_Pred)
+
+    a. [pred_casa.py](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/Api_Precio_Pred/pred_casa.py): Tiene la construcción del API
+    
+    b. Procfile
+    
+    c. requirements.txt
+    
+- Despliego el modelo en Heroku: [Api en heroku](https://api-pred-casa-edwchi.herokuapp.com/docs)
+
+https://api-pred-casa-edwchi.herokuapp.com/docs
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
