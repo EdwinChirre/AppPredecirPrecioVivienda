@@ -1,6 +1,7 @@
 # Crear un app móvil para implementar un modelo ML
 
 Se va a crear un app para predecir los precios de viviendas. 
+
 Para ello, se seguirá el siguiente flujo de trabajo:
 
 ## 1. Entrenar un modelo para predecir los precios de la viviendas
@@ -41,8 +42,7 @@ Para ello, se seguirá el siguiente flujo de trabajo:
 
 ![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Formulario.jpg)
 
-- Y fron del valor predicho:
+- Y front del valor predicho:
  
 ![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Predicho.JPG)
-
 
