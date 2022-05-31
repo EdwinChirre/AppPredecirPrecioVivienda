@@ -43,7 +43,7 @@ Para ello, se seguirá el siguiente flujo de trabajo:
 
 ![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Formulario.jpg)
 
-- Y front del valor predicho:
+- Y el front del valor predicho:
  
 ![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Predicho.JPG)
 
