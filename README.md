@@ -1,10 +1,11 @@
 # Crear un app móvil para implementar un modelo ML
 
-Se va a crear un app para predecir los precios de viviendas. Para ello, se seguirá el siguiente flujo de trabajo:
+Se va a crear un app para predecir los precios de viviendas. 
+Para ello, se seguirá el siguiente flujo de trabajo:
 
-## Getting Started
+## 1. Entrenar un modelo para predecir los precios de la viviendas
 
-This project is a starting point for a Flutter application.
+a. 
 
 A few resources to get you started if this is your first Flutter project:
 
