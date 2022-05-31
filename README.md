@@ -34,6 +34,7 @@ Para ello, se seguirá el siguiente flujo de trabajo:
 - Se va a crear la estructura del app en flutter. Son todas las carpetas que se encuentran en el inicio (android, ios, lib, etc)
 
     a. El archivo [main](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/lib/main.dart)
+    
     b. El archivo del formato del app es [pred_precio_form.dart](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/tree/master/lib/screens)
 
 ## 4. Muestra del App
