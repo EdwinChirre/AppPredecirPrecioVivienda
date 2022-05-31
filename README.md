@@ -47,3 +47,6 @@ Para ello, se seguirá el siguiente flujo de trabajo:
  
 ![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Predicho.JPG)
 
+## 5. Crear el apk del app en play store
+
+- Quedó pendiente esta parte en el curso
