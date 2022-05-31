@@ -1,6 +1,6 @@
-# flutter_precio_casa
+# Crear un app móvil para implementar un modelo ML
 
-A new Flutter project.
+Se va a crear un app para predecir los precios de viviendas. Para ello, se seguirá el siguiente flujo de trabajo:
 
 ## Getting Started
 
