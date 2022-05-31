@@ -15,7 +15,8 @@ Para ello, se seguirá el siguiente flujo de trabajo:
     
     d. scaler_model.pkl: Para replicar las escalas con las que se entrenó
     
-## 2. Crear el API con FastAPI
+## 2. Crear el API con FastAPI (back end)
+
 
 - Se creará un api que pueda ser consumido por el modelo. Se encuentra en [Api_Precio_Pred](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/tree/master/Api_Precio_Pred)
 
@@ -25,18 +26,23 @@ Para ello, se seguirá el siguiente flujo de trabajo:
     
     c. requirements.txt
     
-- Despliego el modelo en Heroku: [Api en heroku](https://api-pred-casa-edwchi.herokuapp.com/docs)
+- Despliego el modelo en Heroku: [Api en heroku](https://api-pred-casa-edwchi.herokuapp.com/docs) https://api-pred-casa-edwchi.herokuapp.com/docs
 
-https://api-pred-casa-edwchi.herokuapp.com/docs
+## 3. Crear el App en flutter (front end)
+
+- Se va a crear la estructura del app en flutter. Son todas las carpetas que se encuentran en el inicio (android, ios, lib, etc)
+
+    a. El archivo [main](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/lib/main.dart)
+    b. El archivo del formato del app es [pred_precio_form.dart](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/tree/master/lib/screens)
+
+## 4. Muestra del App
+
+- El formulario del app se ve de la siguiente manera:
+
+![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Formulario.jpg)
+
+- Y fron del valor predicho:
+ 
+![Image text](https://github.com/EdwinChirre/AppPredecirPrecioVivienda/blob/master/FrontApp/Front_Predicho.JPG)
 
 
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
