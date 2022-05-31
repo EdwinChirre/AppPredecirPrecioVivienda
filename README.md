@@ -1,6 +1,6 @@
-# Crear un app móvil para implementar un modelo ML
+# Crear un app móvil para predecir los precios de viviendas
 
-Se va a crear un app para predecir los precios de viviendas. 
+Se va a crear un app para predecir los precios de viviendas como parte del trabajo final del curso " Crear App móvil para implementar modelos ML" de la Sociedad Ecuatoriana de Estadística 
 
 Para ello, se seguirá el siguiente flujo de trabajo:
 
